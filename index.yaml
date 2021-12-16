@@ -6,10 +6,10 @@ entries:
     created: "2021-12-16T10:57:40.484401773Z"
     dependencies:
     - name: api
-      repository: http://localhost:8080
+      repository: https://crypticcode.github.io/
       version: 1.x.x
     - name: mysql
-      repository: http://localhost:8080
+      repository: https://crypticcode.github.io/
       version: 1.x.x
     description: A Helm chart for Pages Application
     digest: 7e11762b680dca5b86ccab59a9802cc2d0005ff11f40bea64b066d0946bf2a81
